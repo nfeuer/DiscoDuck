@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Aug 25 15:48:58 EDT 2019
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\Nick\\Desktop\\All Projects\\DiscoDuck\\DiscoDuck\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+0.path=classes.dex
+0.set=DEX
+count=1

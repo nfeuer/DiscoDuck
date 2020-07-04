@@ -1,0 +1,4 @@
+#Sun Aug 25 15:48:58 EDT 2019
+base.0=C\:\\Users\\Nick\\Desktop\\All Projects\\DiscoDuck\\DiscoDuck\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
